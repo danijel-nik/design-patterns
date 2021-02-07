@@ -1,4 +1,5 @@
 console.warn('Factory design pattern')
+// Foctory is an object which creates different objects in centralized location
 
 function Developer(name) {
     this.name = name
